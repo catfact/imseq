@@ -9,8 +9,7 @@ can perform some light processing on input:
 assumptions:
 - input files are named in sequence; zero-padding is not significant. (`1.png`, `02.png`, &c.)
 - input files are RGB bitmaps 
-
-single argument is a configuration file. see `default_config.json` for the format.
+- single script argument is a configuration file. see `default_config.json` for the format.
 all configuration fields are mandatory.
 
 ## requirements
