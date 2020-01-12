@@ -51,3 +51,6 @@ def replace_color(src, dst, a, b):
     """
     # TODO
     pass
+
+#----------------
+#--- app logic
