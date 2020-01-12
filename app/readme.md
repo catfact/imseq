@@ -10,8 +10,8 @@ assumptions:
 - input files are named in sequence; zero-padding is not significant. (`1.png`, `02.png`, &c.)
 - input files are RGB bitmaps 
 
-single argument is a config file (actually a python script.) see `default_config.py` for the format.
-all configuration fields are optional.
+single argument is a configation file. see `default_config.json` for the format.
+all configuration fields are mandatory.
 
 requires imagemagick to be installed:
 

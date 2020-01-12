@@ -1,0 +1,5 @@
+{
+  "frames_location": "../test_frames",
+  "output_file": "../output.mp4",
+  "frame_duration": 2.0
+}
