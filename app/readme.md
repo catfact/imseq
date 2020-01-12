@@ -16,8 +16,6 @@ all configuration fields are mandatory.
 
 python 3, imagemagick and ffmpeg
 
-- imagemagick:
-
 linux:
 ```
 sudo apt install imagemagick ffmpeg python3
