@@ -15,16 +15,16 @@ all configuration fields are mandatory.
 
 ## requirements
 
-- python 3
+python 3, imagemagick and ffmpeg
 
 - imagemagick:
 
 linux:
 ```
-sudo apt install imagemagick
+sudo apt install imagemagick ffmpeg python3
 ```
 
 macos:
 ```
-brew install imagemagick
+brew install imagemagick ffmpeg python
 ```
